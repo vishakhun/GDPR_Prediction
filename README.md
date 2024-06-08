@@ -1,5 +1,5 @@
 # GDPR Customer Request Prediction Model - Ride-hailing company
-
+[Open in Colab](https://colab.research.google.com/github/vishakhun/GDPR_Prediction/blob/main/GDPR_Customer_Request_Prediction_Model_(ride_hailing_company).ipynb)
 ## 1. Introduction
 This project aims to predict whether customer service requests are related to GDPR compliance using machine learning models. This capability can help organizations respond appropriately to privacy-related inquiries, ensuring compliance with data protection laws.
 
